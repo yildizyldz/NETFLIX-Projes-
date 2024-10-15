@@ -8,6 +8,8 @@ Bu proje, HTML ve CSS kullanarak geliştirilmiş bir Netflix klonudur. Kullanıc
 - **Responsive Tasarım**: Farklı cihazlarda düzgün görüntülenme.
 
 # Teknolojiler
--HTML
--CSS
+- **HTML
+- **CSS
+
+
 ![EkranKayd2024-10-14133932-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b383339c-3823-4827-b678-ffbf854eb0d6)
