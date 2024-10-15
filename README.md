@@ -12,4 +12,11 @@ Bu proje, HTML ve CSS kullanarak geliştirilmiş bir Netflix klonudur. Kullanıc
 - **CSS
 
 
-![EkranKayd2024-10-14133932-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b383339c-3823-4827-b678-ffbf854eb0d6)
+
+![](
+
+
+
+https://github.com/user-attachments/assets/dad9d107-60d0-448d-87e5-5f57ff08a895
+
+
